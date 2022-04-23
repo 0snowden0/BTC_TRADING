@@ -78,5 +78,6 @@ def trade():
 	else:
 		print("your buying conditions did not match for the day. Let's give it a shot tomorrow")
 		
+#the main function		
 if __name__ == '__main__':
 	trade()
